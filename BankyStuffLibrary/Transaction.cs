@@ -1,4 +1,4 @@
-namespace Classes;
+namespace BankyStuffLibrary;
 
 public class Transaction
 {
